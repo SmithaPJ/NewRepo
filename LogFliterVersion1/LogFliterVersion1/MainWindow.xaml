@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button x:Name="button" Content="Display Date and Time" HorizontalAlignment="Left" Height="72" Margin="114,101,0,0" VerticalAlignment="Top" Width="257" Click="button_Click"/>
+        <Button x:Name="button" Content="Displays Date and Time" HorizontalAlignment="Left" Height="72" Margin="114,101,0,0" VerticalAlignment="Top" Width="257" Click="button_Click"/>
         <Label x:Name="label" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="3.456,8.994" Height="39" Margin="98,198,0,0" Width="292">
             <Label.RenderTransform>
                 <TransformGroup>
