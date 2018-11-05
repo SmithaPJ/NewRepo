@@ -13,7 +13,7 @@
             <ColumnDefinition Width="467*"/>
         </Grid.ColumnDefinitions>
         <Button x:Name="button" Content="Displays Date and Time" HorizontalAlignment="Left" Height="72" Margin="62.8,101,0,0" VerticalAlignment="Top" Width="257" Click="button_Click" Grid.Column="2"/>
-        <Label x:Name="label" Content="Date and Time Display location" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="3.456,8.994" Height="39" Margin="46.8,198,0,0" Width="292" Grid.Column="2">
+        <Label x:Name="label" Content="Date & Time Display location" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="3.456,8.994" Height="39" Margin="46.8,198,0,0" Width="292" Grid.Column="2">
             <Label.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
