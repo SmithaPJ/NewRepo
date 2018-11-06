@@ -27,7 +27,7 @@ namespace WpfApplication1
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            label.Content = "ELECTION DAY - Nov 6th 2018";
+            label.Content = "ELECTION DAY - November 6th 2018";
         }
     }
 }
