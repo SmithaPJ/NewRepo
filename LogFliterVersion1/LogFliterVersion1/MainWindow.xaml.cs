@@ -27,7 +27,7 @@ namespace LogFliterVersion1
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            label.Content = DateTime.Now.ToString();
+            label.Content = DateTime.Now.ToString()+"Today";
 
         }
     }
